@@ -1,2 +1,2 @@
 # A-Z Machine Learning Capstone Projects
-This consists of the various projects from Udemy "A-Z Machine Learning".
+This consists of the Udemy "A-Z Machine Learning 2022" capstone projects.
